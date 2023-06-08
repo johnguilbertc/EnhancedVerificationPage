@@ -14,7 +14,7 @@ class VerificationController extends Controller
     {
         return view('verify');
     }
-
+ 
     public function verify(Request $request)
     {
         $serialNumber = $request->input('serial_number');
