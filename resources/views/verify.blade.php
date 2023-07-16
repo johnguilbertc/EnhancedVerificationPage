@@ -12,7 +12,7 @@
 <!-- resources/views/verify.blade.php -->
 
 <div class="container-fluid">
-	<div class="row" style="max-width: 900px; margin:0 auto;">
+	<div class="row" style="max-width: 1280px; margin:0 auto;">
 		<div class="col-md-12">
     <img src="{{ asset('/images/logo.png') }}" class="align-items-center">
         @if(session('success'))
@@ -33,10 +33,11 @@
    
 		    </div>
 	</div>
-</div>
 
 
-<div class="container-fluid">
+
+
+    <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-4">
 			<h2>
@@ -74,6 +75,10 @@
 	</div>
 </div>
    
+
+</div>
+
+
 
 
 
