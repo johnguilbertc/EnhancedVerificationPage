@@ -38,7 +38,7 @@
 
 
     <div class="container-fluid">
-	<div class="row">
+	<div class="row" style="max-width: 1280px; margin:0 auto;">
 		<div class="col-md-4">
 			<h2>
             Genuine Product
