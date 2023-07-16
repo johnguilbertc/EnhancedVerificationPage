@@ -41,10 +41,10 @@
 	<div class="row">
 		<div class="col-md-4">
 			<h2>
-				Heading
+            Genuine Product
 			</h2>
 			<p>
-				Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+            Congratulations! Your product is authentic, confirming that you have invested in a legitimate Enhanced Labs supplement. You can rest assured knowing that you're consuming the highest quality formulas to fuel your fitness journey.
 			</p>
 			<p>
 				<a class="btn" href="#">View details »</a>
@@ -52,22 +52,22 @@
 		</div>
 		<div class="col-md-4">
 			<h2>
-				Heading
+            Genuine Product, Previously Verified
 			</h2>
 			<p>
-				Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-			</p>
+			While your product is genuine, the code you entered has already been used on a specific date. This outcome suggests that someone else has previously verified the product's authenticity. Please note that this doesn't indicate any issue with the product itself; it merely means that the code has been utilized before, But An issue Could Be Present. 	
+            </p>
 			<p>
 				<a class="btn" href="#">View details »</a>
 			</p>
 		</div>
 		<div class="col-md-4">
 			<h2>
-				Heading
+            Code Not Genuine
 			</h2>
 			<p>
-				Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-			</p>
+            Unfortunately, the code you entered does not match our database records, suggesting that the product may be counterfeit. We highly encourage you to exercise caution in such cases and reach out to our customer support immediately. We will investigate the matter promptly to ensure your satisfaction.		
+        </p>
 			<p>
 				<a class="btn" href="#">View details »</a>
 			</p>
